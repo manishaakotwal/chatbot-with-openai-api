@@ -1,6 +1,6 @@
 import openai
 # Initialize the OpenAI API with your API key
-client = openai.OpenAI(api_key='')
+client = openai.OpenAI(api_key='your_api_key')
 
 
 # Define a function to interact with the chatbot
